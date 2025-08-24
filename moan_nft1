@@ -1,7 +1,7 @@
 {
-  "name": "Moan_nft",
-  "symbol": "MoA",
-  "description": " Moannft token",
+  "name": "Moan NFT",
+  "symbol": "MOA",
+  "description": "Moan NFT token on Solana",
   "image": "https://raw.githubusercontent.com/moannft-spec/moan_nft/main/logo.jpg",
   "attributes": [
     {
@@ -10,11 +10,20 @@
     },
     {
       "trait_type": "Network",
-      "value": "Ethereum"
+      "value": "Solana"
     },
     {
       "trait_type": "Version",
       "value": "1.0"
     }
-  ]
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/moannft-spec/moan_nft/main/logo.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
 }
