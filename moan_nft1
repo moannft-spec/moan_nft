@@ -1,0 +1,20 @@
+{
+  "name": "Moan_nft",
+  "symbol": "MoA",
+  "description": " Moannft token",
+  "image": "https://raw.githubusercontent.com/moannft-spec/moan_nft/main/logo.jpg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "Version",
+      "value": "1.0"
+    }
+  ]
+}
